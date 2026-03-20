@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  PIYUSH PATHAK — GITHUB PROFILE              -->
+<!--                  Shivam Pandey — GITHUB PROFILE              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -366,18 +366,6 @@ Active member of NCC Air Wing, developing leadership, discipline, and service mi
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Datamancer42&bg_color=0D1117&color=00FFD4&line=00FFD4&point=FFFFFF&area=true&area_color=003D33&hide_border=true&radius=8" alt="Contribution Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════ -->
-<!--           TROPHIES                    -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Datamancer42&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
