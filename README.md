@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- ░░ BADGES ROW 1 — Social ░░ -->
-<a href="[https://linkedin.com/in/shivam-pandey-640b0026a](https://www.linkedin.com/in/shivam-pandey-640b0026a/)/">
+<a href="https://linkedin.com/in/shivam-pandey-640b0026a">
   <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/Datamancer42">
