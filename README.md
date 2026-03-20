@@ -391,9 +391,9 @@ Active member of NCC Air Wing, developing leadership, discipline, and service mi
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Datamancer42/Datamancer42/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Datamancer42/Datamancer42/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Datamancer42/Datamancer42/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 > ⚡ *Enable the snake animation — see [SETUP.md](./SETUP.md) for the 2-minute GitHub Actions setup*
