@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ░░ ANIMATED HEADER BANNER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Shivam%20Pandey&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Generative%20AI%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Shivam%20Pandey&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Generative%20AI%20%7C%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Data%20Analyst&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
 
 <!-- ░░ NEON DIVIDER ░░ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
