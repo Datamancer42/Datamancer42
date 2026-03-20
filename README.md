@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               SHIVAM PANDEY — GITHUB PROFILE                 -->
+<!--                  PIYUSH PATHAK — GITHUB PROFILE              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ░░ ANIMATED HEADER BANNER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Shivam%20Pandey&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20%26%20ML%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20VIT%20%2727%20%7C%20Researcher&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Shivam%20Pandey&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Generative%20AI%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
 
 <!-- ░░ NEON DIVIDER ░░ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -391,9 +391,9 @@ Active member of NCC Air Wing, developing leadership, discipline, and service mi
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Datamancer42/Datamancer42/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Datamancer42/Datamancer42/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Datamancer42/Datamancer42/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 > ⚡ *Enable the snake animation — see [SETUP.md](./SETUP.md) for the 2-minute GitHub Actions setup*
@@ -401,7 +401,6 @@ Active member of NCC Air Wing, developing leadership, discipline, and service mi
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════════════════════ -->
 <!--         HIGHLIGHTS & JOURNEY          -->
 <!-- ═══════════════════════════════════════ -->
